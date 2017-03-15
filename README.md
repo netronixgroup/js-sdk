@@ -32,5 +32,5 @@ If you’ve read this far and feel like this is the challenge you were meant to 
 
 #### Contacts
 
-* email: a.sergeyev@netronixgroup.com
+* email: hr_RnD@netronixgroup.com
 * skype: alex.sergeyev
