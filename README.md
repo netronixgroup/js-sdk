@@ -1,7 +1,7 @@
 ![](http://netronixgroup.com/img/assets/sketch-new-8befd89f.png)
 ### Job Description
 
-The next technological BOOM is here and it is called The Internet of Things (IoT). Netronix (http://netronixgroup.com), a global leader in the technology sector, has a solution and platform that consists of hardware, software and cloud based services. Are you ready to be part of Industry 4?
+The next technological BOOM is here and it is called The Internet of Things (IoT). Netronix (http://netronix.io ), a global leader in the technology sector, has a solution and platform that consists of hardware, software and cloud based services. Are you ready to be part of Industry 4?
 
 We are currently seeking a Frontend Developer Specialist to be responsible for next generation SDK for IoT. This individual will have the opportunity to work closely with a well respected company and global leader in cloud technology.    
 
