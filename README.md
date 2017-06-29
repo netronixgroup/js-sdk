@@ -1,4 +1,4 @@
-![](http://netronixgroup.com/img/assets/sketch-new-8befd89f.png)
+![](http://netronix.io/images/sketch2-b4e3f63a7f.png)
 ### Job Description
 
 The next technological BOOM is here and it is called The Internet of Things (IoT). Netronix (http://netronix.io ), a global leader in the technology sector, has a solution and platform that consists of hardware, software and cloud based services. Are you ready to be part of Industry 4?
