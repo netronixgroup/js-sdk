@@ -1,7 +1,7 @@
 ![](http://netronix.io/images/sketch2-b4e3f63a7f.png)
 The next technological boom is here and it is called The Internet of Things (IoT).
 
-Netronix Group (netronix.io) is the leading IoT platform making a dent in the technology sector.
+[Netronix Group](https://netronix.io) is the leading IoT platform making a dent in the technology sector.
 
 Developers are able to bring new & innovative A-Z solutions to industry verticals like the environmental, health & transportation sectors. The IoT platform has a unique hardware-cloud synergy enabling anyone to rapidly develop applications and put together end-to-end solutions that can quickly be brought into the market.  Together, the SDKs for hardware development, APIs made available for the Acheron cloud, and web development applications allow 3rd parties to create prototypes and take products from concept to market in weeks.
 
