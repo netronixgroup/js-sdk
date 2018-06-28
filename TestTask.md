@@ -2,13 +2,16 @@
 
 Implement a single page application which reads measurements from stream (EventSource). The changes should be reflected as soon as they are updated. Measurements can be one of following types "string", "float" or array with coordinates (Location)
 
-The visualization can be in a form of a table, but feel free to use other options. You can choose any language which compiles to ES, but using React is mandatory.
+The visualization can be in a form of a table, but feel free to use other options.
 
 _Requirements:_
-- use React
-- cover the code by tests/specs
+- ES6
+- React.js
 - track your development in github
-- documentation for building and testing the application
+- documentation how to build and run the app
+
+Managing of application state and side effects is a matter of choice, but preferably it should be done with Redux/Saga.
+All other additions or improvements to main requirements like adding tests will be also evaluated. 
 
 #### API Description
 
