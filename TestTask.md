@@ -15,7 +15,7 @@ All other additions or improvements to main requirements like adding tests will 
 
 #### API Description
 
-The API consists of websocket stream, accessible at wss://jsdemo.envdev.io/ws. The stream is pushing data as array of timeseries with metadata and measurements. A timeserie is key-value map of structure:
+The API consists of websocket stream, accessible at ```wss://jsdemo.envdev.io/ws```. The stream is pushing data as array of timeseries with metadata and measurements. A timeserie is key-value map of structure:
 
 - _id uniquely identifies the timeserie
 - _name_, e.g. Pressure, Temperature, Serial
