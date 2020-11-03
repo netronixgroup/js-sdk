@@ -1,6 +1,6 @@
 #### Test Task
 
-Implement a single page application which reads measurements from stream (EventSource). The changes should be reflected as soon as they are updated. Measurements can be one of following types "string", "float" or array with coordinates (Location)
+Implement a single page application which reads measurements from stream (WebSocket). The changes should be reflected as soon as they are updated. Measurements can be one of following types "string", "float" or array with coordinates (Location)
 
 The visualization can be in a form of a table, but feel free to use other options.
 
