@@ -31,8 +31,8 @@ This is a long-term, **full-time remote** position. Your working hours must over
 ### Desired Skills
 
 * Strong UX design skills and sound knowledge of UX best practices with the ability to incorporate into solutions.
-* Experience with React Native, webpack, brunch.
-* Experience with Bootstrap and SCSS
+* Experience with React Native, MobX.
+
 
 
 ### We offer.  
