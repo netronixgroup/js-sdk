@@ -10,8 +10,8 @@ _Requirements:_
 - track your development in github
 - documentation how to build and run the app
 
-Managing of application state and side effects is a matter of choice, but preferably it should be done with Redux/Saga.
-All other additions or improvements to main requirements like adding tests will be also evaluated. 
+Managing of application state and side effects is a matter of choice.
+All other additions or improvements to main requirements like adding tests will and code quality be also evaluated. 
 
 #### API Description
 
